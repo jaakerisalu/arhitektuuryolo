@@ -1,0 +1,21 @@
+# Ignore everything in .idea
+.idea
+
+*.pyo
+*.pyc
+.sass-cache/
+npm-debug.log
+node_modules/
+arhitektuuryolo/node_modules/
+venv/
+
+arhitektuuryolo/settings/local.py
+arhitektuuryolo/db.sqlite3
+arhitektuuryolo/app/webpack-stats.json
+arhitektuuryolo/app/build/
+arhitektuuryolo/assets/
+arhitektuuryolo/media/
+
+arhitektuuryolo/.cache
+arhitektuuryolo/.coverage
+arhitektuuryolo/cover/
